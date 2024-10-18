@@ -104,7 +104,7 @@ ggplot(mydata, aes(x = Electric.Range)) +
   labs(title = "Histogram of Electric Range (Original Data)")
 
 
-#-----------   QUESTION 1: DATA ANALYSIS (EDA)  --------------------------------
+#-----------   QUESTION 2: DATA ANALYSIS (EDA)  --------------------------------
 
 # histogram plot for Variations in Feature
 ggplot(mydata, aes(x = Electric.Range)) +
